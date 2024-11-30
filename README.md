@@ -5,16 +5,16 @@ I have worked in the ship industry developing electrical power systems and drive
 
 ## Professional Experience
 
-- **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Edinburgh (Sep 2023 - Present)
-- **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany (Mar 2023 - Sep 2023)
-- **Founder**: Buchholz Robotics, Norway (Jul 2020 - Sep 2023)
-- **Senior Robotics Engineer**: Zivid, Norway (Mar 2022 - Sep 2022)
-- **Principal Software Engineer**: Canrig Robotic Technologies, Norway (Jan 2018 - Jul 2020)
-- **R&D Senior Engineer - Motion Control**:  ABB Robotics, Norway (Mar 2014 - Dec 2017)
-- **Senior Engineer - Subsea Control Systems**: Statoil, Norway (Mar 2012 - Feb 2014)
-- **R&D Senior Engineer - Ship Electrical Power Systems**:  Rolls-Royce, Norway (Jan 2011 - Feb 2012)
-- **Senior Engineer - Subsea Control Systems**: General Electric, Norway (Apr 2008 - Dec 2010)
-- **Electrical Engineer (Shipyard)**: Rysjedal Elektro AS, Norway (Apr 2006 - Dec 2007)
+- **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Scotland :scotland:, Edinburgh (Sep 2023 - Present)
+- **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany :de: (Mar 2023 - Sep 2023)
+- **Founder**: Buchholz Robotics, Norway 🇳🇴, (Jul 2020 - Sep 2023)
+- **Senior Robotics Engineer**: Zivid, Norway 🇳🇴,  (Mar 2022 - Sep 2022)
+- **Principal Software Engineer**: Canrig Robotic Technologies, Norway 🇳🇴, (Jan 2018 - Jul 2020)
+- **R&D Senior Engineer - Motion Control**:  ABB Robotics, Norway 🇳🇴, (Mar 2014 - Dec 2017)
+- **Senior Engineer - Subsea Control Systems**: Statoil, Norway 🇳🇴, (Mar 2012 - Feb 2014)
+- **R&D Senior Engineer - Ship Electrical Power Systems**:  Rolls-Royce, Norway 🇳🇴,  (Jan 2011 - Feb 2012)
+- **Senior Engineer - Subsea Control Systems**: General Electric, Norway 🇳🇴, (Apr 2008 - Dec 2010)
+- **Electrical Engineer (Shipyard)**: Rysjedal Elektro AS, Norway 🇳🇴, (Apr 2006 - Dec 2007)
 
 ## Tools and Technologies
 
