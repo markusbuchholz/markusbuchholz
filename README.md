@@ -6,7 +6,7 @@ I have worked in the ship industry developing electrical power systems and drive
 ## Professional Experience
 
 - **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Edinburgh (Sep 2023 - Present)
-- **Senior Software Engineer - Robotics**: YASKAWA Europe, Germany (Mar 2023 - Sep 2023)
+- **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany (Mar 2023 - Sep 2023)
 - **Founder**: Buchholz Robotics, Norway (Jul 2020 - Sep 2023)
 - **Senior Robotics Engineer**: Zivid, Norway (Mar 2022 - Sep 2022)
 - **Principal Software Engineer**: Canrig Robotic Technologies, Norway (Jan 2018 - Jul 2020)
