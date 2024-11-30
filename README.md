@@ -23,8 +23,8 @@ I have worked in the ship industry developing electrical power systems and drive
 
 ## Passions
 
-- **Robotics** (motion control and robot dynamics).  
-- **Cycling** 
+- **🤖 Robotics** (motion control and robot dynamics.  
+- **🚴 Cycling**  
 <!--
 
 | Position                                     | Company                         | Location        | Duration               |
