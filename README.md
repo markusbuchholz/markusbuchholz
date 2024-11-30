@@ -15,6 +15,11 @@ I have worked in the ship industry developing electrical power systems and drive
 - **R&D Senior Engineer - Ship Electrical Power Systems**:  Rolls-Royce, Norway (Jan 2011 - Feb 2012)
 - **Senior Engineer - Subsea Control Systems**: General Electric, Norway (Apr 2008 - Dec 2010)
 - **Electrical Engineer (Shipyard)**: Rysjedal Elektro AS, Norway (Apr 2006 - Dec 2007)
+
+## Tools and Technologies
+
+- **Programming and Platforms:** ROS 2, C++, Python, Linux, Docker  
+- **Simulations and Frameworks:** StoneFish, GazeboSim, MoveIt2, Matlab, Pinocchio, Crocoddyl, ArduPilot 
 <!--
 
 | Position                                     | Company                         | Location        | Duration               |
