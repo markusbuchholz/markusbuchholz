@@ -25,7 +25,9 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 ## Passions
 
 - **🤖 Robotics** (motion control and robot dynamics)  
-- **🚴 Cycling**  
+- **🚴 Cycling**
+- **🐧 Linux**
+
 <!--
 
 | Position                                     | Company                         | Location        | Duration               |
