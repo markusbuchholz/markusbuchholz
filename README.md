@@ -19,7 +19,7 @@ I have worked in the ship industry developing electrical power systems and drive
 ## Tools and Technologies
 
 - **Programming and Platforms:** ROS 2, C++, Python, Linux, Docker  
-- **Simulations and Frameworks:** StoneFish, GazeboSim, MoveIt2, Matlab, Pinocchio, Crocoddyl, ArduPilot
+- **Simulations and Frameworks:** [StoneFish](https://stonefish.readthedocs.io/en/latest/), [GazeboSim](https://gazebosim.org/home), [MoveIt2](https://moveit.picknik.ai/main/index.html), [Matlab](https://se.mathworks.com/products/matlab.html), [Pinocchio](https://github.com/stack-of-tasks/pinocchio), [Crocoddyl](https://github.com/loco-3d/crocoddyl), [ArduPilot](https://ardupilot.org/)
 
 ## Passions
 
