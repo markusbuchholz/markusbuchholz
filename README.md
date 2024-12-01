@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a robotics researcher with many years of R&D experience in motion control, software development for manipulators, industrial applications, AI, and vision. <br>
+I am a robotics researcher with many years of R&D experience in robotics motion control, software development for manipulators, and industrial applications (onshore and offshore). <br>
 I have worked in the ship industry developing electrical power systems and drives, and in the Oil & Gas sector on subsea control systems. <br>
-I mostly enjoy working in the lab with robots and the people around me. <br>
+I enjoy mostly working in the lab (hands-on) with robots and the people around me. <br>
 
 ## Professional Experience
 
