@@ -1,8 +1,16 @@
 ## Hi, I am Markus! 👋
-
+<!--
 I am a robotics researcher with many years of R&D experience in robotics motion control, software development for manipulators, and industrial applications (onshore and offshore). <br>
 I have worked in the ship industry developing electrical power systems and drives, and in the Oil & Gas sector on subsea control systems. <br>
-I enjoy mostly working in the lab (hands-on) with robots and the people around me 💪 . <be>
+I enjoy mostly working in the lab (hands-on) with robots and the people around me 💪 . <br>
+-->
+
+## Robotics Researcher (postdoc at Heriot-Watt University)
+
+- **Extensive R&D Experience:** Specializing in robotics motion control, manipulator software development, and industrial applications for both onshore and offshore environments.
+- **Industry Expertise:** Developed electrical power systems and drives in the ship industry; engineered subsea control systems in the Oil & Gas sector.
+- **Passionate:** Enjoy working hands-on with robots in the lab and thrive in supportive,team-oriented environments 💪.
+
 
 ## Research Interests
 
