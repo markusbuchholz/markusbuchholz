@@ -14,7 +14,7 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 
 ## Research Interests
 
-Robotics, autonomous systems, robot motion control, whole-body dynamics, trajectory optimization, and simulations.
+Autonomy, robotics, motion control, whole-body dynamics, optimization, and simulations.
 
 ## Professional Experience
 
