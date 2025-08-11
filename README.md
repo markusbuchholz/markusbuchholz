@@ -26,7 +26,7 @@ Autonomy, robotics, motion control, whole-body dynamics, optimization, and simul
 - **R&D Senior Engineer - Motion Control**:  ABB Robotics, Norway, (Mar 2014 - Dec 2017)
 - **Senior Engineer - Subsea Control Systems**: Equinor (Statoil), Norway, (Mar 2012 - Feb 2014)
 - **R&D Senior Engineer - Ship Electrical Power Systems**:  Rolls-Royce, Norway,  (Jan 2011 - Feb 2012)
-- **Senior Engineer - Subsea Control Systems**: General Electric, Norway, (Apr 2008 - Dec 2010)
+- **Lead Engineer - Subsea Control Systems**: General Electric, Norway, (Apr 2008 - Dec 2010)
 - **Electrical Engineer (Shipyard)**: Rysjedal Elektro AS, Norway, (Apr 2006 - Dec 2007)
 
 ## Tools and Technologies
