@@ -5,10 +5,10 @@ I have worked in the ship industry developing electrical power systems and drive
 I enjoy mostly working in the lab (hands-on) with robots and the people around me 💪 . <br>
 -->
 
-## Robotics Researcher (postdoc at Heriot-Watt University)
+## Research Scientist 
 
 - **Extensive R&D Experience:** Specializing in robotics motion control, manipulator software development, and industrial applications for both onshore and offshore environments.
-- **Industry Expertise:** Developed electrical power systems and drives in the ship industry; engineered subsea control systems in the Oil & Gas sector.
+- **Academia Experience:** .
 - **Passionate:** Enjoy working hands-on with robots in the lab and thrive in supportive,team-oriented environments 💪.
 
 
