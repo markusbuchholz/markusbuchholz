@@ -18,6 +18,7 @@ Autonomy, multi-agent systems, robotics, whole-body dynamics, optimization, and 
 
 ## Professional Experience
 
+- **Researcher Scientist in Simulation Technology**: FFI (Norwegian Defence Research Establishment), Norway, (from Jan 2026)
 - **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Scotland, Edinburgh, (Sep 2023 - Dec 2025)
 - **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany, (Mar 2023 - Sep 2023)
 - **Founder**: Buchholz Robotics, Norway, (Jul 2020 - Sep 2023)
