@@ -18,7 +18,7 @@ Autonomy, multi-agent systems, robotics, whole-body dynamics, optimization, and 
 
 ## Professional Experience
 
-- **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Scotland, Edinburgh, (Sep 2023 - Present)
+- **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Scotland, Edinburgh, (Sep 2023 - Dec 2025)
 - **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany, (Mar 2023 - Sep 2023)
 - **Founder**: Buchholz Robotics, Norway, (Jul 2020 - Sep 2023)
 - **Senior Robotics Engineer**: Zivid, Norway, (Mar 2022 - Sep 2022)
