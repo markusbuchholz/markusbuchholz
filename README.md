@@ -9,7 +9,7 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 
 - **Extensive R&D Experience:** Specializing in robotics motion control, manipulator software development, and industrial applications for both onshore and offshore environments.
 - **Advanced Academic Research:** Served as a Postdoctoral Researcher at Heriot-Watt University, Scotland, specializing in Underwater Robotics. Developed multi-agent motion control systems and neuro-symbolic **Agentic AI** architectures (UROSA, AURA) to enable autonomous reasoning in underwater environments.
-- **Passionate:** Enjoy working hands-on with robots in the lab and thrive in supportive,team-oriented environments 💪.
+- **Passionate:** Enjoy working on hands-on projects with team-oriented environments.
 
 
 ## Research Interests
