@@ -14,7 +14,7 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 
 ## Research Interests
 
-Autonomy, multi-agent systems, robotics, whole-body dynamics, optimization, and simulations.
+Autonomy, multi-agent systems, reasoning, robotics, optimization, and neuroscience.
 
 ## Professional Experience
 
