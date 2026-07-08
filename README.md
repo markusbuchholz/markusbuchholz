@@ -53,11 +53,6 @@ Agentic AI and multi-agent systems · World models · Autonomous marine robotics
 
 **AI:** LLM agent pipelines · World models · RAG / GraphRAG · PyTorch
 
-## More
-
-Full project portfolio, publications, workshops, and teaching material: **[markusbuchholz.github.io](https://markusbuchholz.github.io/)**
-
-Outside the lab, I'm usually on a bike - clearing my head and putting in the miles.
 <!--
 ## Passions
 
