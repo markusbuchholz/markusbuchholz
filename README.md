@@ -5,36 +5,59 @@ I have worked in the ship industry developing electrical power systems and drive
 I enjoy mostly working in the lab (hands-on) with robots and the people around me 💪 . <br>
 -->
 
-## Research Scientist 
+# Markus Buchholz
 
-- **Advanced Academic Research:** Served as a Postdoctoral Researcher at Heriot-Watt University, Scotland, specializing in Underwater Robotics. Developed multi-agent motion control systems and neuro-symbolic **Agentic AI** architectures (UROSA, AURA) to enable autonomous reasoning in underwater environments.
-- **Extensive R&D Experience:** Specializing in robotics motion control, manipulator software development, and industrial applications for both onshore and offshore environments.
-- **Passionate:** Enjoy working on hands-on projects with team-oriented environments.
+**Research Scientist in AI & Simulation - Norwegian Defence Research Establishment (FFI)**
 
+[![Website](https://img.shields.io/badge/Website-markusbuchholz.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://markusbuchholz.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/markusbuchholz)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@markus-x-buchholz)
+[![Email](https://img.shields.io/badge/Email-markus.x.buchholz%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:markus.x.buchholz@gmail.com)
+
+I work where robotics, dynamics, and control meet. Over two decades I have moved between heavy industry and leading academic labs, building systems that make physical robots move, adapt, and reason - from underwater vehicles and maritime platforms to industrial manipulators and aerial systems.
+
+My current research combines AI-driven planning, distributed autonomous agents, world models, nonlinear control, and full-stack robotic software in ROS 2 and Linux - from first-principles dynamics through perception, learning, and real-world deployment.
+
+## Highlights
+
+- **[UROSA](https://markusbuchholz.github.io/urosa.html)** - Distributed agentic AI architecture for autonomous underwater reasoning and mission adaptation (BlueROV2, real-world trials)
+- **[AURA](https://markusbuchholz.github.io/aura.html)** - Anomaly detection and fault diagnostics for underwater vehicles using a digital-twin pipeline (Stonefish)
+- **AI decision support** - LLM-based agentic pipelines grounded in world models for planning and simulation at FFI
+- Two US patents, industrial deployments from concept to offshore commissioning, supervision of PhD and MSc students from idea to publication and field validation
 
 ## Research Interests
 
-Autonomy, robotics, AI, multi-agent systems, optimization, and computational neuroscience.
+Agentic AI and multi-agent systems · World models · Autonomous marine robotics · AI-driven planning and simulation · Nonlinear and optimal control · Optimization · Computational neuroscience
 
-## Professional Experience
+## Experience
 
-- **Researcher Scientist in AI and Simulation**: FFI (Norwegian Defence Research Establishment), Norway, (from Jan 2026)
-- **Postdoctoral Researcher in Underwater Robotics**: Heriot-Watt University, Scotland, Edinburgh, (Sep 2023 - Dec 2025)
-- **Senior Software Engineer - Robotics**: YASKAWA Robotics Europe, Germany, (Mar 2023 - Sep 2023)
-- **Founder**: Buchholz Robotics, Norway, (Jul 2020 - Sep 2023)
-- **Senior Robotics Engineer**: Zivid, Norway, (Mar 2022 - Sep 2022)
-- **Principal Software Engineer**: Canrig Robotic Technologies, Norway, (Jan 2018 - Jul 2020)
-- **R&D Senior Engineer - Motion Control**:  ABB Robotics, Norway, (Mar 2014 - Dec 2017)
-- **Senior Engineer - Subsea Control Systems**: Equinor (Statoil), Norway, (Mar 2012 - Feb 2014)
-- **R&D Senior Engineer - Ship Electrical Power Systems**:  Rolls-Royce, Norway,  (Jan 2011 - Feb 2012)
-- **Lead Engineer - Subsea Control Systems**: General Electric, Norway, (Apr 2008 - Dec 2010)
-- **Electrical Engineer (Shipyard)**: Rysjedal Elektro AS, Norway, (Apr 2006 - Dec 2007)
+| Role | Organization | Period |
+|---|---|---|
+| Research Scientist - AI & Simulation | [FFI](https://www.ffi.no/), Norway | 2026 – present |
+| Postdoctoral Researcher - Underwater Robotics | [Heriot-Watt University](https://www.hw.ac.uk/) / [National Robotarium](https://thenationalrobotarium.com/), UK | 2023 – 2025 |
+| Senior Software Engineer - Robotics | YASKAWA Robotics Europe, Germany | 2023 |
+| Founder | Buchholz Robotics, Norway | 2020 – 2023 |
+| Senior Robotics Engineer | Zivid, Norway | 2022 |
+| Principal Software Engineer | Canrig Robotic Technologies, Norway | 2018 – 2020 |
+| R&D Senior Engineer - Motion Control | ABB Robotics, Norway | 2014 – 2017 |
+| Senior Engineer - Subsea Control Systems | Equinor (Statoil), Norway | 2012 – 2014 |
+| R&D Senior Engineer - Ship Electrical Power Systems | Rolls-Royce Marine, Norway | 2011 – 2012 |
+| Lead Engineer - Subsea Control Systems | General Electric, Norway | 2008 – 2010 |
+| Electrical Engineer (Shipyard) | Rysjedal Elektro AS, Norway | 2006 – 2007 |
 
-## Tools and Technologies
+## Tools & Technologies
 
-- **Programming and Platforms:** ROS 2, C++, Python, Linux, Docker  
-- **Simulations and Frameworks:** [StoneFish](https://stonefish.readthedocs.io/en/latest/), [GazeboSim](https://gazebosim.org/home), [MoveIt2](https://moveit.picknik.ai/main/index.html), [Matlab](https://se.mathworks.com/products/matlab.html), [Pinocchio](https://github.com/stack-of-tasks/pinocchio), [Crocoddyl](https://github.com/loco-3d/crocoddyl), [ArduPilot](https://ardupilot.org/)
+**Core:** C++ · Python · ROS 2 · Linux · Docker
 
+**Robotics & Simulation:** [Stonefish](https://stonefish.readthedocs.io/en/latest/) · [Gazebo](https://gazebosim.org/home) · [ArduPilot](https://ardupilot.org/) (SITL/MAVLink) · [MoveIt 2](https://moveit.picknik.ai/main/index.html) · [Pinocchio](https://github.com/stack-of-tasks/pinocchio) · [Crocoddyl](https://github.com/loco-3d/crocoddyl) · [MATLAB](https://se.mathworks.com/products/matlab.html)
+
+**AI:** LLM agent pipelines · World models · RAG / GraphRAG · PyTorch
+
+## More
+
+Full project portfolio, publications, workshops, and teaching material: **[markusbuchholz.github.io](https://markusbuchholz.github.io/)**
+
+Outside the lab, I'm usually on a bike - clearing my head and putting in the miles.
 <!--
 ## Passions
 
