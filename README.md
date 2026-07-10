@@ -33,7 +33,7 @@ Robotics · Autonomous systems · Agentic AI and multi-agent systems · World mo
 
 | Role | Organization | Period |
 |---|---|---|
-| Research Scientist - AI & Simulation | [FFI](https://www.ffi.no/), Norway | 2026 – present |
+| Research Scientist - AI & Simulation | Norwegian Defence Research Establishment [FFI](https://www.ffi.no/), Norway | 2026 – present |
 | Postdoctoral Researcher - Underwater Robotics | [Heriot-Watt University](https://www.hw.ac.uk/) / [National Robotarium](https://thenationalrobotarium.com/), UK | 2023 – 2025 |
 | Senior Software Engineer - Robotics | YASKAWA Robotics Europe, Germany | 2023 |
 | Founder | Buchholz Robotics, Norway | 2020 – 2023 |
