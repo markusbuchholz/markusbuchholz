@@ -14,7 +14,7 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@markus-x-buchholz)
 [![Email](https://img.shields.io/badge/Email-markus.x.buchholz%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:markus.x.buchholz@gmail.com)
 
-I work where robotics, dynamics, and control meet. Over two decades I have moved between heavy industry and leading academic labs, building systems that make physical robots move, adapt, and reason - from underwater vehicles and maritime platforms to industrial manipulators and aerial systems.
+I work where robotics, dynamics, and control meet. Over two decades I have moved between heavy industry and leading academic labs, building systems that make physical robots move, adapt, and reason - from underwater vehicles and maritime platforms to industrial manipulators.
 
 My current research combines AI-driven planning, distributed autonomous agents, world models, nonlinear control, and full-stack robotic software in ROS 2 and Linux - from first-principles dynamics through perception, learning, and real-world deployment.
 
