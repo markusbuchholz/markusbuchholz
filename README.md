@@ -22,8 +22,7 @@ My current research combines AI-driven planning, distributed autonomous agents, 
 
 - **[UROSA](https://markusbuchholz.github.io/urosa.html)** - Distributed agentic AI architecture for autonomous underwater reasoning and mission adaptation (BlueROV2, real-world trials)
 - **[AURA](https://markusbuchholz.github.io/aura.html)** - Anomaly detection and fault diagnostics for underwater vehicles using a digital-twin pipeline (Stonefish)
-- **AI decision support** - LLM-based agentic pipelines grounded in world models for planning and simulation at FFI
-- Two US patents, industrial deployments from concept to offshore commissioning, supervision of PhD and MSc students from idea to publication and field validation
+- **Two US patents**, industrial deployments from concept to offshore commissioning, supervision of PhD and MSc students from idea to publication and field validation
 
 ## Research Interests
 
