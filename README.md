@@ -32,16 +32,16 @@ Robotics · Autonomous systems · Agentic AI and multi-agent systems · World mo
 | Role | Organization | Period |
 |---|---|---|
 | Research Scientist - AI & Simulation | Norwegian Defence Research Establishment [FFI](https://www.ffi.no/), Norway | 2026 - present |
-| Postdoctoral Researcher - Underwater Robotics | [Heriot-Watt University](https://www.hw.ac.uk/) / [National Robotarium](https://thenationalrobotarium.com/), UK | 2023 – 2025 |
+| Postdoctoral Researcher - Underwater Robotics | [Heriot-Watt University](https://www.hw.ac.uk/) / [National Robotarium](https://thenationalrobotarium.com/), UK | 2023 - 2025 |
 | Senior Software Engineer - Robotics | YASKAWA Robotics Europe, Germany | 2023 |
 | Senior Robotics Engineer | Zivid, Norway | 2022 |
-| Founder | Buchholz Robotics, Norway | 2020 – 2023 |
-| Principal Software Engineer | Canrig Robotic Technologies, Norway | 2018 – 2020 |
-| R&D Senior Engineer - Motion Control | ABB Robotics, Norway | 2014 – 2017 |
-| Senior Engineer - Subsea Control Systems | Equinor (Statoil), Norway | 2012 – 2014 |
-| R&D Senior Engineer - Ship Electrical Power Systems | Rolls-Royce Marine, Norway | 2011 – 2012 |
-| Lead Engineer - Subsea Control Systems | General Electric, Norway | 2008 – 2010 |
-| Electrical Engineer (Shipyard) | Rysjedal Elektro AS, Norway | 2006 – 2007 |
+| Founder | Buchholz Robotics, Norway | 2020 - 2023 |
+| Principal Software Engineer | Canrig Robotic Technologies, Norway | 2018 - 2020 |
+| R&D Senior Engineer - Motion Control | ABB Robotics, Norway | 2014 - 2017 |
+| Senior Engineer - Subsea Control Systems | Equinor (Statoil), Norway | 2012 - 2014 |
+| R&D Senior Engineer - Ship Electrical Power Systems | Rolls-Royce Marine, Norway | 2011 - 2012 |
+| Lead Engineer - Subsea Control Systems | General Electric, Norway | 2008 - 2010 |
+| Electrical Engineer (Shipyard) | Rysjedal Elektro AS, Norway | 2006 - 2007 |
 
 ## Tools & Technologies
 
