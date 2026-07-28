@@ -13,16 +13,18 @@ I enjoy mostly working in the lab (hands-on) with robots and the people around m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/markusbuchholz)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?style=flat&logo=medium)](https://medium.com/@markus-x-buchholz)
 [![Email](https://img.shields.io/badge/Email-markus.x.buchholz%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:markus.x.buchholz@gmail.com)
-
+<!--
 I work where autonomy, robotics, dynamics, and control meet. Over two decades, I have moved between heavy industry and leading academic labs, building systems that make physical robots move, adapt, and reason - from underwater vehicles and maritime platforms to industrial manipulators. <br>
 My current research combines AI-driven planning, distributed autonomous agents, world models, and simulators.
+-->
 
+<!--
 ## Highlights
 
 - **[UROSA](https://markusbuchholz.github.io/urosa.html)** - Distributed agentic AI architecture for autonomous underwater reasoning and mission adaptation (BlueROV2, real-world trials)
 - **[AURA](https://markusbuchholz.github.io/aura.html)** - Anomaly detection and fault diagnostics for underwater vehicles using a digital-twin pipeline (Stonefish)
 - **Two US patents**, industrial deployments from concept to offshore commissioning, supervision of PhD and MSc students from idea to publication and field validation
-
+-->
 ## Research Interests
 
 Robotics · Autonomous systems · Agentic AI and multi-agent systems · World models · Nonlinear and optimal control · Optimization · Computational neuroscience
