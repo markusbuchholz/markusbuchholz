@@ -27,7 +27,7 @@ My current research combines AI-driven planning, distributed autonomous agents, 
 -->
 ## Research Interests
 
-Robotics · Autonomous systems · Agentic AI and multi-agent systems · World models · Nonlinear and optimal control · Optimization · Computational neuroscience
+Robotics · Autonomous systems & Control · Agentic AI and multi-agent systems · World models · Optimization · Computational neuroscience
 
 ## Experience
 
